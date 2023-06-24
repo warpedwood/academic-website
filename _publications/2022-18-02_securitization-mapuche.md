@@ -1,0 +1,11 @@
+---
+title: 'Criminalization, Securitization and other Forms of Illegalizing Indigenous
+    Contestations in Chile: Responses from Constitutional Law and Inter-American
+    Jurisprudence on Mapuche People’s Rights'
+collection: publications
+permalink: /publications/2022-18-02_securitization-mapuche
+venue: 'Journal of Human Rights Practice'
+link: 'https://doi.org/10.1093/jhuman/huab041'
+paperurl: 'https://watermark.silverchair.com/huab041.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsIwggK-BgkqhkiG9w0BBwagggKvMIICqwIBADCCAqQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMuWv1APM0MOrKZf_NAgEQgIICdWqP-o-BLDAYCi7zhshTXaeFo5t756wblBVq2M8urll4Dnq2ZZTweiCBcOK1lBFMa8067KQv2fn14jcjkYyA_vIQs3hTYIE41RXm-SciNaFQ6ATg55poQbpJqeoisfhb1jVkmDwJXrRTTVRDKZkLkN-JE4k5vQOBySAcCm3Yt5Ku1232rlkBaZg8yWUhaIHmiOyqX38LwtDqEJJdy5HRp8Q-bzbEY7PGdqeemVY5TyhS9AgJ1qaNTpF1c3kjiI2154NYHgLSOLrY6gvoRklEq7fjSFpXiQutOHhgIjIuhjfS_g9PEjygxRJmz8LkEEjUVk-1mR89FXuXrpuw5jkCDBpZjjSL0Z5PGT7oDfbeBVvL9y6bkb7zbjs0ScYWTjmQz0NRowHy6n1g9io2WZqf3hD3UF6nO_d-4OsPC0IrEuYOjcM6x15Wg24rUNmV4OR1fxgYkOSFOmNQFkl8AGuxZkvWxWEOfejdewHB8Gvo3azX-2PqKnBE_zvIoZ5i5mjjde0qTxW0588j8JvWPh7s6yX_22stwHrd7zUKq-fmvKHGziZUQEpgzY8iU4a_qgaRWDGGdPOcUqvyZeRBqr1XTde5Isn-1umie4YYSdTPKACyTGyVqRDZq2BemFZ8C_sNTOfLDbuHRBTl7wsdsJee1K7GNMVn-1lNxNgzqy5YomOqrb0W71TjTFZ5d6qT4PKsZP8o8AURBH525AbJCjXpVY0zyoav_73tCPid1vjk6zCXmCJq6ioTsndEI-kWDI4QD8pG7AHxbnQPQ-9VbiX8zlDq54MIhDPw4t4WYq3MAu3XVo3XrvbO7kuMulNH3qhoMLDJOx_1'
+citation: 'Eichler, Jessika, and Pablo Barnier-Khawam. ‘Criminalization, Securitization and Other Forms of Illegalizing Indigenous Contestations in Chile: Responses from Constitutional Law and Inter-American Jurisprudence on Mapuche People’s Rights’. <i>Journal of Human Rights Practice</i> 13, no. 2 (2022): 357–85.'
+---
