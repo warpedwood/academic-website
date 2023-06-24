@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-US, fr, es"
+title                    : "Pablo Barnier-Khawam"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pablo Barnier-Khawam"
+description              : &description "Ph.D in Political Science"
+url                      : https://warpedwood.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "warpedwood/warpedwood.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,41 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Pablo Barnier-Khawam"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Ph.D in Political Science"
+  location         : "Paris"
+  employer         : "Sciences Po, CERI/CNRS"
+  universitypage   : "https://www.sciencespo.fr/ceri/fr/users/pablobarnierkhawam.html"
+  googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=rlHuDUoAAAAJ"
+  email            : "pablo.barnierkhawam@sciencespo.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  mastodon         : "mamot.fr/@warped_wood"
+  github           : "warpedwood"
+  hal              : "https://cv.hal.science/pablo-barnier-khawam"
+  zotero           : "https://www.zotero.org/pablobarnierkhawam"
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  orcid            : "https://orcid.org/0000-0002-7462-5551"
+  twitter          : "@warped_wood"
 
 
 # Reading Files
