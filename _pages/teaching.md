@@ -2,41 +2,45 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-<!-- 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+I have taught undergraduate courses mainly in political science and
+international relations, both in English and French. I also served as a teaching
+assistant for courses in international security and democratic theory.
 
-## Washington University in St. Louis
+## Université de Lille
 
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-  - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-  - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+- **Introduction à la politique mondiale** (Autumn 2023). Four undergraduate
+seminars, 1<sup>st</sup> year, Université de Lille, 60h.
 
-## The University of North Carolina at Chapel Hill
+- **Sociologie politique** (Autumn 2023). Two undergraduate seminars,
+2<sup>nd</sup> year, Université de Lille, 30h.
 
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-  - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-  - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Sciences Po
 
-## ICPSR Summer Program
+- **Espace mondial: Thinking IR globally** (Autumn 2022 and 2021). Four
+undergraduate seminars, 2<sup>nd</sup> year, Sciences Po, Paris and Reims
+campus, 144h.
+  - [Syllabus](/files/UP%2017376_Espace%20mondial_BARNIER-KHAWAM_Syllabus.pdf)
 
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-  - [Syllabus](/files/pdf/teaching/bayes2017.pdf) -->
+- **Introduction to political science** (Spring 2021). Undergraduate seminar,
+1<sup>st</sup> year, Sciences Po, Reims campus, 24h.
+  - [Syllabus](/files/Seminar_Syllabus_IPS_Pablo%20Barnier-Khawam_Reims.pdf)
+
+- **Introduction à la science politique** (Spring 2021). Undergraduate seminar,
+1<sup>st</sup> year, Sciences Po, 24h.
+  - [Syllabus](/files/Barnier-Khawam_Syllabus_Intro%20Sc%20Po_Paris.pdf)
+
+- Teaching assistant for the course **International Security: Theories and
+Cases** (Autumn 2020) by Professor Thierry Balzacq, 3rd year, Sciences Po.
+
+- **Théorie des relations internationales** (Spring 2019). Undergraduate
+seminar, 2<sup>nd</sup> year, Sciences Po, 24h.
+  - [Syllabus](/files/Barnier-Khawam_Syllabus_Th%C3%A9ories%20des%20RI.pdf)
+
+- Teaching assistant for the course **Érosion démocratique** (Spring 2019) by
+Professor Nicolas Sauger, 2<sup>nd</sup> year, Sciences Po.
+
+- **War, Peace and the Sovereign State: Political Thought from Machiavelli to
+Kant** (Autumn 2018). Undergraduate seminar, 2<sup>nd</sup> year, Sciences Po,
+24h.
+  - [Syllabus](/files/Barnier-Khawam%20-%20Syllabus%20-%20WPSS.pdf)
