@@ -65,11 +65,8 @@
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% if post.zotero %}
+        <a href="{{ post.zotero }}"><i class="ai ai-zotero-square ai-fw zoom" aria-hidden="true"></i></a>
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
