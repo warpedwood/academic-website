@@ -154,7 +154,7 @@ kramdown:
   enable_coderay: false
 
 
-Collections
+# Collections
 collections:
   teaching:
     output: true
