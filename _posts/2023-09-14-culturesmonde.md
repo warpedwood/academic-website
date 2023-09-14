@@ -8,8 +8,11 @@ tags:
   - Indigenous Peoples
 ---
 
-Intervention dans l'émission _Cultures Monde_, à retrouver au lien suivant :
+Intervention dans l'émission _Cultures Monde_, à écouter ci-dessous ou au lien suivant :
 <https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/chili-les-fractures-d-une-nation-4-4-mapuches-l-echec-de-la-reconciliation-3909426>.
 
-<audio src="https://raw.githubusercontent.com/warpedwood/warpedwood.github.io/main/files/culturesmonde_14-09-2023.mpga" controls="controls" style="max-width: 700px;">
+ <audio controls>
+  <source src="/files/culturesmonde_14-09-2023.mp3" type="audio/mpeg">
+  <source src="/files/culturesmonde_14-09-2023.ogg" type="audio/ogg">
+Your browser does not support the audio element.
 </audio>
