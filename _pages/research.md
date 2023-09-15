@@ -12,7 +12,7 @@ tried to show how their international mobilisation produced a diversity of
 feelings of belonging. I created a Zotero shared [library](https://www.zotero.org/groups/2198172/mapuche_history_and_movementhistoria_y_movimiento_mapuche) on Mapuche studies.
 
 This first research project led me to carry out two stays in Chile: the first
-was a professional internship at MINREL, and the second was a research stay in
+was a professional internship at the Chilean Ministry of Foreign Affairs, and the second was a research stay in
 Temuco, with the aim of interviewing various Mapuche actors or those linked to
 them. My doctoral research began in 2018 with the continuation of the study of
 the Mapuche, although I broadened the perspective by integrating the case of
