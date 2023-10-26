@@ -9,6 +9,8 @@ assistant for courses in international security and democratic theory.
 
 ## Université de Lille
 
+- **Three supervisions of Master thesis** in political science (2023-2024).
+
 - **Introduction à la politique mondiale** (Autumn 2023). Four undergraduate
 seminars, 1<sup>st</sup> year, Université de Lille, 60h.
 
