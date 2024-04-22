@@ -18,7 +18,7 @@ I earned my [Ph.D](https://theses.hal.science/tel-04124332) in political science
 
 Mes recherches portent sur le droit à l'autodétermination en Bolivie et au Chili et sur sa transformation d'un droit à l'État en un droit à l'autonomie depuis les années 1970, grâce à sa revendication par le mouvement des non-alignés et à son appropriation par les peuples autochtones. Pour plus de détails, voir [research](research).
 
-J'ai obtenu mon [doctorat](https://theses.hal.science/tel-04124332) en science politique, mention relations internationales, à Sciences Po, sous la direction du professeur Thierry Balzacq.
+J'ai obtenu mon [doctorat](https://theses.hal.science/tel-04124332) en science politique, spécialité relations internationales, à Sciences Po, sous la direction du professeur Thierry Balzacq.
 
 ### ES 🇧🇴 🇨🇱
 
