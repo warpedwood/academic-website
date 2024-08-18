@@ -3,7 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have taught undergraduate courses mainly in political science and international relations, both in English and French. I also served as a teaching assistant for courses in international security and democratic theory.
+I have taught undergraduate courses mainly in political science and
+international relations, in English, French and Spanish. I also served as a teaching
+assistant for courses in international security and democratic theory.
 
 ## Universidad de Chile
 
