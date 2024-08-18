@@ -10,7 +10,7 @@ assistant for courses in international security and democratic theory.
 ## Universidad de Chile
 
 - **Política Comparada I** (Spring 2024). One undergraduate seminar, 1<sup>st</sup> year, 48h.
-  - [Syllabus](politica_comparada_programa.pdf)
+  - [Syllabus](/files/politica_comparada_programa.pdf)
 
 - **Seminario de Investigación Aplicada** (Spring 2024). One undergraduate
   seminar, 4<sup>th</sup> year, 48h.
