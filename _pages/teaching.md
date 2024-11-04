@@ -14,6 +14,7 @@ assistant for courses in international security and democratic theory.
 
 - **Seminario de Investigación Aplicada** (Spring 2024). One undergraduate
   seminar, 4<sup>th</sup> year, 48h.
+  - [Syllabus](</files/Planificación Ciencias Sociales.pdf>)
 
 ## Universidad O'Higgins
 
