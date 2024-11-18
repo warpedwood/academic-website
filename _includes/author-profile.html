@@ -48,6 +48,11 @@
       <li><a href="{{ author.zotero }}"><i class="ai ai-zotero-square ai-fw"
       style="padding-right: 1.5em;"></i>Zotero</a></li>
       {% endif %}
+      {% if author.bluesky %}
+      <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i
+      class="fa-solid fa-square icon-pad-right" style="color: #1184fe"
+      aria-hidden="true"></i>Bluesky</a></li>      Bluesky</a></li>                          
+      <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>  
       {% if author.googlescholar %}
       <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
       {% endif %}
